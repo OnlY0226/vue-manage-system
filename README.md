@@ -195,3 +195,6 @@ import 'element-ui/lib/theme-default/index.css'; // 默认主题
 ## License
 
 [MIT](https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE)
+git地址：https://github.com/lin-xin/vue-manage-system
+
+在线预览：https://lin-xin.gitee.io/example/work/#/dashboard
